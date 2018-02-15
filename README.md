@@ -16,3 +16,5 @@ Figure 1.3.
 pages are displayed?
 
 Commit changes
+
+Changes for class
