@@ -14,11 +14,5 @@ whether you can then modify the code to use document.write() in place of alert()
 Figure 1.3.
 * Try the example code from this hour in as many different browsers as you have access to. What differences do you note in how the example
 pages are displayed?
- 
 
- 
-
-
-
-
-
+Commit changes
